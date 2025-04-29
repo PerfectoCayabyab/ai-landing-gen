@@ -41,7 +41,7 @@ Built with **Next.js 15**, **TailwindCSS**, **OpenRouter API** (ChatGPT-4o model
 
 ```bash
 # Clone the project
-git clone https://github.com/yourusername/ai-landing-gen.git
+git clone https://github.com/PerfectoCayabyab/ai-landing-gen.git
 cd ai-landing-gen
 
 # Install dependencies
